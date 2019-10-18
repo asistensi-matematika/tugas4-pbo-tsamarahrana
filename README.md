@@ -32,6 +32,10 @@ NRP: 06111840000103
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
+![Screen Shot 2019-10-18 at 10 24 28](https://user-images.githubusercontent.com/55730503/67063754-0f8e1600-f192-11e9-8e03-a657728c23ac.png)
+![Screen Shot 2019-10-18 at 10 24 59](https://user-images.githubusercontent.com/55730503/67063755-0f8e1600-f192-11e9-97fe-94054b4e7d56.png)
+![Screen Shot 2019-10-18 at 10 25 45](https://user-images.githubusercontent.com/55730503/67063756-0f8e1600-f192-11e9-90fa-fc4034d4a073.png)
+![Screen Shot 2019-10-18 at 10 26 20](https://user-images.githubusercontent.com/55730503/67063757-1026ac80-f192-11e9-9f83-a5785f385540.png)
 
 
 ## Upload
