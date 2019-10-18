@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Tsamarah Rana Nugraha
 
-NRP: `isi nrp disini`
+NRP: 06111840000103
 
 ## Deskripsi Tugas
 
@@ -32,7 +32,7 @@ NRP: `isi nrp disini`
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
-masukkan screenshot output disini
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
